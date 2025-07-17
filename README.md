@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" src="https://gifs.anmolbaranwal.com/another-coding-gif.gif">
+<img width="200" src="https://gifs.anmolbaranwal.com/path-to-gif.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Hashini Malsha</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
