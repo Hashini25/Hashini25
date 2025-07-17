@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" width="5000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlyY3BwcWp1cGZ0MXcwbjMzdnk3a2U2NGt6cTRvem85ODVkOTJvbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QiY6ZEhKYvOHnPgQXf/giphy.gif">
+<img width="200" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Hashini Malsha</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
