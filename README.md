@@ -16,7 +16,7 @@
   </td>
 <td width="50%" align="center">
 
-  <img src="path/in/repository/to/image.svg" width="128"/>
+ <img src="path/in/repository/to/image.svg" width="128"/>
 
   
   </td>
