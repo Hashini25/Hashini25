@@ -15,8 +15,7 @@
 
   </td>
 <td width="50%" align="center">
-
- <img src="path/in/repository/to/image.svg" width="128"/>
+ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ0cjhlcGs2b2xpMHExdHR3OGVyZDBvNWc0b2F5ZGxzY216bHo3OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif
 
   
   </td>
