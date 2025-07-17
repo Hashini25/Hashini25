@@ -1,6 +1,7 @@
-<p align="center">
-<img width="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-</p>
+### 👋 Hello, Welcome to My GitHub!
+
+![Hello GitHub](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Hashini Malsha</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
 
