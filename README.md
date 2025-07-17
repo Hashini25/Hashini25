@@ -1,7 +1,7 @@
 <p align="center">
 <img width="200" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
-<h1 align="center">Hi 👋,<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E2ZmVqcGQ0Nnh1ZTc3YWw4c2owMmtzbnVrd3BndGhwMGhkNDB5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AWNxDbtHGIJDW/giphy.gif"> I'm Hashini Malsha</h1>
+<h1 align="center">Hi 👋,I'm Hashini Malsha</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hashini25&label=Profile%20views&color=0e75b6&style=flat" alt="hashini25" /> </p>
