@@ -1,3 +1,6 @@
+<p align="center">
+<img width="200" src=https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub>
+</p>
 <h1 align="center">Hi 👋, I'm Hashini Malsha</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
 
