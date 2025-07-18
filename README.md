@@ -1,6 +1,6 @@
-<p align="center">
-## 🎁 Welcome to My GitHub!
-</p>
+<h1 align="center">
+### 🎁 Welcome to My GitHub!
+</h1>
 
 <p align="center">
 <img width="200" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
