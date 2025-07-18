@@ -58,3 +58,8 @@
 <a href="https://linkedin.com/in/hashinimalsha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="hashinimalsha" height="50" width="50" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashini25&show_icons=true&locale=en&layout=compact" alt="hashini25" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashini25&show_icons=true&locale=en" alt="hashini25" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashini25&" alt="hashini25" /></p>
