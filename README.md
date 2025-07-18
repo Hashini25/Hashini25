@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50"/>
-<img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="50"/>
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="50"/>
+## 🎁 Welcome to My GitHub!
+</p>
 
+<p align="center">
 <img width="200" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Hashini Malsha</h1>
