@@ -57,3 +57,5 @@
 <a href="https://linkedin.com/in/hashinimalsha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="hashinimalsha" height="50" width="50" /></a>
 </p>
 
+Thanks for visiting! :smiley: :heart: :tada: :rocket:
+
